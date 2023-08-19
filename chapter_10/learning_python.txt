@@ -1,0 +1,5 @@
+In Python you can write loops to run through lines, lists etc
+In Python you can write if statements that when a certain condition is met, an action is done
+In Python you can write your own functions that do what you want
+In Python you can write your own classes which are models of something in real life
+In Python you can take input and output messages to an user
